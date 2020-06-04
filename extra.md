@@ -1,0 +1,1 @@
+Konsole.log("Hallo Welt");
